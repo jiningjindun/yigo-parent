@@ -213,7 +213,6 @@
                 <artifactId>solr-solrj</artifactId>
                 <version>${solrj.version}</version>
             </dependency>
-
             <!-- dubbo相关 -->
             <dependency>
                 <groupId>com.alibaba</groupId>
